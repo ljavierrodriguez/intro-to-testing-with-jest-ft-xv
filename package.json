@@ -1,0 +1,28 @@
+{
+  "name": "intro-to-testing-with-jest-ft-xv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server --yes -c-1",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/intro-to-testing-with-jest-ft-xv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/intro-to-testing-with-jest-ft-xv/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/intro-to-testing-with-jest-ft-xv#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0",
+    "jest": "^27.5.1"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
